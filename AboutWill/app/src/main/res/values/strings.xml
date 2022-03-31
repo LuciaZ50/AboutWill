@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Will Smith</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Will Smith (Philadelphia, 25. rujna 1968.), američki filmski glumac i hip hop pjevač.
+Rođen u siromašnoj obitelji kao jedno od četvero djece, Smith već u dvanaestoj godini počinje repati te 1989. zajedno sa svojim prijateljem, rapperom Jeffom Townesom, osvaja prvog Grammyja za najbolji rap performans s pjesmom Parents Just Don\'t Understand. To je bio samo početak njegove uspješne karijere.
+Ispekavši zanat u hvaljenoj TV-seriji "Princ iz Bel-Aira",
+        \n Smith svojim šarmom ubrzo osvaja i na filmskim platnima. Zahvaljujući ulogama u Kamo te dan odvede (1992.), Made in America (1993.) i Šest stupnjeva odvojenosti (1993.) osvojio je povjerenje kritičara i publike te ostvario uvjete za nastavak filmske karijere.
+        \n Dvije godine kasnije slijedi prvi veći komercijalni uspjeh s filmom Zločesti dečki, a 1996. snima blockbuster Dan nezavisnosti.
+Slijede filmovi Državni neprijatelj i Wild Wild West. Godine 1999. Smith se posvećuje pripremama za zahtjevan lik Muhammada Alija u filmu Ali, koji je izašao 2001. Smith je za tu ulogu morao dobiti dvadeset kilograma i odrađivati treninge s Alijevim bivšim trenerom, što je rezultiralo snimanjem filma bez kaskadera.
+        \n Fascinira činjenica kako su svi udarci u filmu bili pravi, a trud se svakako i potvrdio prvom oskarovskom nominacijom u kategoriji za najboljeg glumca.
+Godine 2002. Smith snima dva nastavka, Ljudi u crnom 2 i Zločesti dečki 2 te se kao producent posvećuje komediji Showtime. Romantičnom komedijom Hitch: Lijek za modernog muškarca (2005.) osvaja srca brojnih obožavateljica i bilježi rijetku brojku od pet uzastopnih naslova koji su premašili sto milijuna zarađenih dolara. Taj niz sačinjavaju, osim spomenutih nastavaka, i film Ja, robot te animirani film Riba ribi grize rep (oba 2004.) Nakon toga Smith snima još socijalnu dramu U potrazi za srećom te znanstvenofantastične hitove Ja sam legenda i Hancock. U najavi su i filmovi Bad Boys 3, Bad Boys 4, Aladdin, Gemini Man te nastavak filma Men in Black, ali to nije službeno potvrđeno.
+
+Zadnju ulogu je dobio u filmu Bright (2017).</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
+
